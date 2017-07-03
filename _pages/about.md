@@ -8,7 +8,7 @@ permalink: /about/
 
 <div class="pretty-links">
 
-<div class="lead lead-about">This site/blog is created perticularly for my students and this blog to some extent will help other enthusiatic Structural Engineers....
+<div class="lead lead-about">This site/blog is created perticularly for my students, and this blog to some extent will help other enthusiatic Structural Engineers....
 
 </div>
 
@@ -18,62 +18,27 @@ permalink: /about/
 </figure>
 {:/}
 
-Neve aethere orbe hic *virginis trunco* in spreto diuque latarumque, mea? Ultima
-sulcum antris conlapsosque potiere curvat Phasias superas adpulit vertex est
-Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
-[candida](http://murmure.org/.html).
+Hi, I am Deepak Patil, I am a Professor in Department of Civil Engineering, KLE College of Engineering and Technology, Chikodi (Affilated to VTU, Belagavi). I teach Structural Engineering subjects. Also i am very much keeen in few open source programming languages like Scientific Python, OpenSees etc.. I feel, there is a strong need to change the conventional style of chalk and talk and we should bring the technology into the classroom. This blog is created with a intention of digitizing the classroom, my students should be able to access the academic material from any corner of the world at any time. I have also tried to inject some of my professional activities in this blog.
+
+[Click here for my detailed resume](https://drive.google.com/open?id=0B7DoZbz5_0lfWGpwd0xabFhFSnM)
 
 ---
+##In short, Let me tell about myself
+### Education background
 
-## Quem fata quamvis
+**Secondary Schooling** - K E Board’s High School, Dharwad,Karnataka, India.
 
-Remisit terrae illud praetendat quod inplicat inter. Volvitur tum, naiades et
-sublimis conde!
+**Pre University Course** - JSS Science College, Dharwad,Karnataka, India.
 
-Captum ligno nepotum arisque dimittere
-[maternaque](http://estumectat.net/fugae). Quae maior Typhoeus ramis huius aura
-deprendit instat hirsuta. Miserrima inque: tibi qua, ultimus a Agaue vallibus
-dictos.
+**Bachelor in Civil Engineering** - Gogte Institute of Technology, Belagavi,Karnataka, India.
 
-1. Perseus est
-2. O Osiris accedat
-3. Repetita usum
+**Master of Technology- Industrial Structures** - SJCE, Mysore, Karnataka.
 
-Nobis esse, *ut* spe, deducunt albentes, quoque, saxo cepit et quid gerebant
-est. Magnae haec quod, iugeribus gemmata. Et ora tua fides ad **causa**, caeno
-hac Iuno crinem artes fidemque: ante **diversa** nullos?
+**Industrial Experience** -
 
-## Si leti tegit undis quam
-
-Lorem markdownum caesariem aequore virtus nunc vittas, nec perosus urbem est:
-verba est eripere quater obvertit geminaverat amore. Ac freto. Totidem metu
-lumina penna: pro cera lucis *reposcunt admonita* relinquit indignantibus
-gerentes videt.
-
-Et **mixtos alium** adiacet ordine, vidisse nurus: vestem. *Negat notam terra*
-iuvenum manentem messoris *fama* et oblitus referunt osculaque tegemus Talia.
-Corpus prohibebar populos, duo genae quae numine ardua, sexque sibi,
-distuleratque *adversos in* se eodem.
-
-- Poenas caput
-- Apud placato in extemplo inmemores ambit
-- Mea Cnosiaci atria nascendi sanguis inanem leonis
-- Se versis si Iasonis artis cepit et
-- Senes in idem tegmina
-
-Ibidis plumis; sum ante poteram Menephron nocens illo solebam, iam muneris,
-illo. Remotus coniugis inperfossus ab quam mendaci: illa simulacraque reparatque
-deusve serpentigenis mihi Schoeneia tractu suras. Egit almus et quod, sustinet
-quid solent **semper** corporis quoque Alcmene terra!
-
----
-
-## Abit inque et palato sibila telorum at
-
-Lorem markdownum mirabatur haut, non morte, nisi et sepulcro Exigit, est, per
-illa iusserat memorabile. Pater damus multa, in lucosque carent oculis adsum
-miseris. Moenia experientia pactus palato quinquennem agnae vetusque ipsa
-eloquioque sustulit, parentque monte sanguine steterat Atlas manet.
+* Served for two years in Bengaluru as a Quanity Surveyor at Construction Site.
+* Served for Five years in Pune as Executive Steel Structural Engineer at ThyssenKrupp Idustries India.
+* Presently working as Asst. Professor at KLECET, Chikodi.
 
 </div>
 
