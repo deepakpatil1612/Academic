@@ -23,7 +23,8 @@ Hi, I am Deepak Patil, I am a Professor in Department of Civil Engineering, KLE 
 [Click here for my detailed resume](https://drive.google.com/open?id=0B7DoZbz5_0lfWGpwd0xabFhFSnM)
 
 ---
-##In short, Let me tell about myself
+## In short, Let me tell about myself
+
 ### Education background
 
 **Secondary Schooling** - K E Board’s High School, Dharwad,Karnataka, India.
