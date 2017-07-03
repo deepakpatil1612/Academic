@@ -1,14 +1,15 @@
 ---
 layout: page
 title: About
-subtitle: I am a smart heading.
+subtitle: Spend some time to know about me.
 desc: About me.
 permalink: /about/
 ---
 
 <div class="pretty-links">
 
-<div class="lead lead-about">Some intro text that is eye catching and should put you reader at ease and confident in your skills.
+<div class="lead lead-about">This site/blog is created perticularly for my students and this blog to some extent will help other enthusiatic Structural Engineers....
+
 </div>
 
 {::nomarkdown} 
