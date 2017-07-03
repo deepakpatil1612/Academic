@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="lead pretty-links">
-  Hi, I'm [Prof. Deepak Patil](about/)
+  Hi, I'm [full name](about/)
   
   Zealous Structural Engineer, Academician, Programmer and more...
 
