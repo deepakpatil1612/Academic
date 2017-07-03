@@ -3,7 +3,7 @@
 # Site settings
 title: Deepak Patil               # used for the html title of every page
 desc: >
-  Hi, I'm Deepak Patil
+  Hi, I'm Deepak Patil here
 
 url: http://jackal.com      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
