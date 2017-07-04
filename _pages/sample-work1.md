@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 permalink: teaching/sample-work1/
-subtitle: Design of Steel Structures
+subtitle: Design of Steel Structures (10CV72)
 ---
 
 ### Course objectives: 
