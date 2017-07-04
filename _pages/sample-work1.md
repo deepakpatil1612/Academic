@@ -21,12 +21,12 @@ subtitle: Design of Steel Structures (10CV72)
 * IA Question paper and Scheme
 * Assignments
 
-##### Pre-requisites for this subject are:
+#### Pre-requisites for this subject are:
 * Engineering Mechanics.
 * Strength of Materials.
 * Basic Structural Analysis.
 
-##### Reference Text books are:
+#### Reference Text books are:
 * Design of Steel Structures, N.Subramanian, Oxford, 2008
 * Limit State Design of Steel Structures. Duggal. TATA Megra Hill 2010
 * Bureau of Indian Standards, [IS800-2007](https://archive.org/stream/gov.in.is.800.2007#page/n3/mode/2up), IS875-1987
