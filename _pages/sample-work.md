@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Project
-permalink: work/sample-work/
-subtitle: Sample work
+permalink: teaching/sample-work/
+subtitle: Analysis of Indetreminate Structures
 ---
 
 ## Liber orbes sternentemque nunc mortalia rotae supplex
