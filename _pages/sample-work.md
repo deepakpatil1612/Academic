@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project
+title: Teaching
 permalink: teaching/sample-work/
 subtitle: Analysis of Indetreminate Structures
 ---
