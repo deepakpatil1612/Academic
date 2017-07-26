@@ -14,7 +14,7 @@ subtitle: Analysis of Indetreminate Structures (15CV51)
 
 #### Academic Materials for this course are;
 
-* [Syllabus](http://vtu.ac.in/pdf/cbcs/5sem/civilsyll.pdf)
+* [Syllabus](https://drive.google.com/open?id=0B7DoZbz5_0lfY1FDSzNwblo5Mk0)
 * Lesson Plan
 * Lesson Delivery Progress Report
 * Class Time Table
