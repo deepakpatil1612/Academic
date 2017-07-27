@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 permalink: teaching/sample-work/
-subtitle: Analysis of Indetreminate Structures (15CV51)
+subtitle: Analysis of Indetreminate Structures (15CV52)
 ---
 
 #### Course objectives: This course will enable students to:
@@ -15,7 +15,7 @@ subtitle: Analysis of Indetreminate Structures (15CV51)
 #### Academic Materials for this course are;
 
 * [Syllabus](https://drive.google.com/open?id=0B7DoZbz5_0lfY1FDSzNwblo5Mk0)
-* Lesson Plan
+* Course Plan
 * Lesson Delivery Progress Report
 * Class Time Table
 * Lecture Notes
