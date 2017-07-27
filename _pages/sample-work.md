@@ -18,7 +18,7 @@ subtitle: Analysis of Indetreminate Structures (15CV52)
 * Course Plan
 * Lesson Delivery Progress Report
 * Class Time Table
-* Lecture Notes
+* [Lecture Notes](https://drive.google.com/open?id=0B7DoZbz5_0lfd2F2UVNRMmMwbkk)
 * Previous Year Question papers
 * IA Question paper and Scheme
 * Assignments
