@@ -6,7 +6,7 @@ desc: >
   Hi, I'm Deepak Patil here
 
 url: http://jackal.com      # put your website hosting url here
-baseurl: '/deepakpatil1612'                 # the subpath of your site, e.g. /blog
+baseurl: '/deepakpatil1612/Academic'                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
