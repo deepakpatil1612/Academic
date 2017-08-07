@@ -15,9 +15,9 @@ subtitle: Analysis of Indetreminate Structures (15CV52)
 #### Academic Materials for this course are;
 
 * [Syllabus](https://drive.google.com/open?id=0B7DoZbz5_0lfY1FDSzNwblo5Mk0)
-* Course Plan
-* Lesson Delivery Progress Report
-* Class Time Table
+* [Course Plan](https://drive.google.com/open?id=0B7DoZbz5_0lfSF9HRzJrNW9wMEU)
+* [Lesson Delivery Progress Report](https://drive.google.com/open?id=0B7DoZbz5_0lfckFQRTJ4eDdNZnM)
+* [Class Time Table](https://drive.google.com/open?id=0B7DoZbz5_0lfRk9WODRmZTIyREk)
 * [Lecture Notes](https://drive.google.com/open?id=0B7DoZbz5_0lfRzNyUlhFUUduUTA)
 * Previous Year Question papers
 * IA Question paper and Scheme
