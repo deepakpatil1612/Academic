@@ -22,10 +22,15 @@ subtitle: Analysis of Indetreminate Structures (15CV52)
 * IA Question paper and Scheme
 * Assignments
 * Lecture Notes
+
   1. Module I: Slope Deflection Method.
+  
     1.1 [Introduction.](https://drive.google.com/open?id=0B7DoZbz5_0lfRzNyUlhFUUduUTA)
+    
     1.2 [Numerical Problems on Continuous Beams.](https://drive.google.com/open?id=0B7DoZbz5_0lfUE9hbjluNTZ0c3c)
+    
     1.3 Numerical Problems on frames without sway.
+    
     1.4 Numerical problems on frames with sway.
 
 
