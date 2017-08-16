@@ -23,7 +23,7 @@ subtitle: Analysis of Indetreminate Structures (15CV52)
 * [Assignments1](https://drive.google.com/open?id=0B7DoZbz5_0lfSWd1TEFLNVhFUFU)
 * Lecture Notes
 
-1. #### Module I: Slope Deflection Method.
+1. Module I: Slope Deflection Method.
 
   1.1 [Introduction.](https://drive.google.com/open?id=0B7DoZbz5_0lfRzNyUlhFUUduUTA)
 
