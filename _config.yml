@@ -17,7 +17,7 @@ linkedin_username: deepak-patil
 facebook_username: Deepak Patil
 
 # Put your ga tracking code below
-google_analytics: UA-104884281-1
+google_analytics: 'UA-104884281-1'
 
 # Pagination settings
 paginate: 5                           # number of posts to show per page
