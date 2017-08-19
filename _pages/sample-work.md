@@ -29,7 +29,7 @@ subtitle: Analysis of Indetreminate Structures (15CV52)
 
     1.2 [Numerical Problems on Continuous Beams.](https://drive.google.com/open?id=0B7DoZbz5_0lfUE9hbjluNTZ0c3c)
 
-    1.3 Numerical Problems on frames without sway.
+    1.3 [Numerical Problems on frames without sway.](https://drive.google.com/open?id=0B7DoZbz5_0lfb1F0emhnLTJRWHM)
 
     1.4 Numerical problems on frames with sway.
 
