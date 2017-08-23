@@ -18,9 +18,10 @@ subtitle: Analysis of Indetreminate Structures (15CV52)
 * [Course Plan](https://drive.google.com/open?id=0B7DoZbz5_0lfSF9HRzJrNW9wMEU)
 * [Lesson Delivery Progress Report](https://drive.google.com/open?id=0B7DoZbz5_0lfckFQRTJ4eDdNZnM)
 * [Class Time Table](https://drive.google.com/open?id=0B7DoZbz5_0lfRk9WODRmZTIyREk)
-* [Previous Year Question papers](https://drive.google.com/open?id=0B7DoZbz5_0lfN2hVT2hPbGZxYTA)
+* [Previous Year Question papers-Set1](https://drive.google.com/open?id=0B7DoZbz5_0lfN2hVT2hPbGZxYTA)
+* [Previous Year Question papers-Set1](https://drive.google.com/open?id=0B7DoZbz5_0lfV21LWFpqVnhTTUU)
 * IA Question paper and Scheme
-* [Assignments1](https://drive.google.com/open?id=0B7DoZbz5_0lfSWd1TEFLNVhFUFU)
+* [Assignment-1](https://drive.google.com/open?id=0B7DoZbz5_0lfSWd1TEFLNVhFUFU)
 * Lecture Notes
 
 1. #### Module I: Slope Deflection Method.
