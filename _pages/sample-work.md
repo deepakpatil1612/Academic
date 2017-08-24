@@ -34,9 +34,9 @@ subtitle: Analysis of Indetreminate Structures (15CV52)
 
     1.4 [Numerical problems on frames with sway.](https://drive.google.com/open?id=0B7DoZbz5_0lfOVBCQWFoczdELWs)
 
-1. #### Module II: Moment Distribution Method-Lecture Notes.
+2. #### Module II: Moment Distribution Method-Lecture Notes.
 
-     1.1 [Introduction-PPT.](https://drive.google.com/open?id=0B7DoZbz5_0lfcVRMMGZPVXY2dXc)
+     2.1 [Introduction-PPT.](https://drive.google.com/open?id=0B7DoZbz5_0lfcVRMMGZPVXY2dXc)
 
 
 
