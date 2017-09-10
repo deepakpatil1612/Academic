@@ -26,6 +26,8 @@ subtitle: Analysis of Indetreminate Structures (15CV52)
 
 1. #### Module I: Slope Deflection Method-Lecture Notes.
 
+    [Introdcution on Indeterminate Structures-PPT](https://drive.google.com/open?id=0B7DoZbz5_0lfSTQzZ3UyUEJ1MzQ)
+    
     1.1 [Introduction.](https://drive.google.com/open?id=0B7DoZbz5_0lfRzNyUlhFUUduUTA)
 
     1.2 [Numerical Problems on Continuous Beams.](https://drive.google.com/open?id=0B7DoZbz5_0lfUE9hbjluNTZ0c3c)
