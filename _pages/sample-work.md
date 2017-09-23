@@ -39,6 +39,12 @@ subtitle: Analysis of Indetreminate Structures (15CV52)
 2. #### Module II: Moment Distribution Method-Lecture Notes.
 
      2.1 [Introduction-PPT.](https://drive.google.com/open?id=0B7DoZbz5_0lfcVRMMGZPVXY2dXc)
+     
+     2.2 [Moment Distribution method-Introduction](https://drive.google.com/open?id=0B7DoZbz5_0lfNHRfc1p0aGJPVms)
+     
+     2.3 [Numerical Problems-1](https://drive.google.com/open?id=0B7DoZbz5_0lfTkM4NV9CQ20yQUE)
+     
+     2.4 [Numerical Problems-2](https://drive.google.com/open?id=0B7DoZbz5_0lfbUJuM3BwRmhKeUk)
 
 
 
