@@ -22,6 +22,7 @@ subtitle: Analysis of Indetreminate Structures (15CV52)
 * [Previous Year Question papers-Set2](https://drive.google.com/open?id=0B7DoZbz5_0lfV21LWFpqVnhTTUU)
 * IA Question paper and Scheme
 * [Assignment-1](https://drive.google.com/open?id=0B7DoZbz5_0lfSWd1TEFLNVhFUFU)
+* [Click here to check your IA marks for AIS](https://drive.google.com/open?id=0B7DoZbz5_0lfb21MNUpjbl95N1U)
 * Lecture Notes
 
 1. #### Module I: Slope Deflection Method-Lecture Notes.
