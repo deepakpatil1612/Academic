@@ -23,6 +23,7 @@ subtitle: Analysis of Indetreminate Structures (15CV52)
 * IA Question paper and Scheme
 * [Assignment-1](https://drive.google.com/open?id=0B7DoZbz5_0lfSWd1TEFLNVhFUFU)
 * [Click here to check your IA marks for AIS](https://drive.google.com/open?id=0B7DoZbz5_0lfb21MNUpjbl95N1U)
+* [Updated Fixed End Moments Standard Table](https://drive.google.com/open?id=0B7DoZbz5_0lfelBkLXJQMGdBWU0)
 * Lecture Notes
 
 1. #### Module I: Slope Deflection Method-Lecture Notes.
@@ -47,7 +48,13 @@ subtitle: Analysis of Indetreminate Structures (15CV52)
      
      2.4 [Numerical Problems-2](https://drive.google.com/open?id=0B7DoZbz5_0lfbUJuM3BwRmhKeUk)
 
+3. #### Module III: Kani's Method-Lecture Notes.
 
+     2.1 [Introduction and Numerical Problemson Beams]()
+     
+     2.2 [Numerical Problems on Non-Sway Frames]()
+     
+     2.3 [Numerical Problems on Sway Frames]()
 
 
 
