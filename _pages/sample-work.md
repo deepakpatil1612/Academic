@@ -50,11 +50,11 @@ subtitle: Analysis of Indetreminate Structures (15CV52)
 
 3. #### Module III: Kani's Method-Lecture Notes.
 
-     2.1 [Introduction and Numerical Problemson Beams]()
+     2.1 [Introduction and Numerical Problemson Beams](https://drive.google.com/open?id=0B7DoZbz5_0lfM3dpTm1QZUt3TWs)
      
-     2.2 [Numerical Problems on Non-Sway Frames]()
+     2.2 [Numerical Problems on Non-Sway Frames](https://drive.google.com/open?id=0B7DoZbz5_0lfX0RaaTNucm9Mcmc)
      
-     2.3 [Numerical Problems on Sway Frames]()
+     2.3 [Numerical Problems on Sway Frames](https://drive.google.com/open?id=0B7DoZbz5_0lfdVIxSkdUZnZVUm8)
 
 
 
